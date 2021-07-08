@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Testes-Automatizados-Kotlin</string>
+    <string name="adicionar_nome">Adicionar Nome</string>
+    <string name="nome">Nome:</string>
+    <string name="limpar">Limpar</string>
+    <string name="campo_obrigatorio">Campo Obrigatório</string>
+</resources>
